@@ -1,0 +1,20 @@
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WMM (CS, WForm).csprojAssemblyReference.cache
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WMM (CS, WForm).csproj.GenerateResource.cache
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WMM (CS, WForm).csproj.CoreCompileInputs.cache
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WMM (CS, WForm).csprojAssemblyReference.cache
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WMM (CS, WForm).csproj.GenerateResource.cache
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WMM (CS, WForm).csproj.CoreCompileInputs.cache
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\bin\Debug\WMM WForm.exe.config
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\bin\Debug\WMM WForm.exe
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\bin\Debug\WMM WForm.pdb
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WMM WForm.exe
+C:\Users\dzoni\Documents\NJ\Kapernikov - samples\compass\wmm declination\cs deklinacija\WMM WForm\obj\Debug\WMM WForm.pdb

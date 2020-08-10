@@ -1,0 +1,42 @@
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_vti\deklinacija .cs 2015\cs deklinacija 22.04.15 - B\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_vti\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\_vti\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_vti\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_vti\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 24.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_vti\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_vti\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_vti\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+N:\Compass\KOMPAS - MIP11 2015\deklinacija .cs 2015\cs deklinacija 27.04.15\cs deklinacija\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
