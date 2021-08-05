@@ -1,4 +1,4 @@
-# World Magnetic Model (WMM) Point Calculation in C# (Windows.Forms GUI)
+# World Magnetic Model (WMM) Point Calculation
  World Magnetic Model (WMM) Point Calculation - Magnetic Declination Estimation (outdated, uses 2014/2015 data)  
  
 ### Keywords:  
